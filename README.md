@@ -4,6 +4,12 @@
 
 # `fabric`
 
+## About
+- **What it is:** An untouched copy of Daniel Miessler's Fabric, a library of AI prompts you run from the command line.
+- **Business:** learning
+- **Status:** inactive since 2024-12
+- **Source:** agent research 2026-11-04
+
 ![Static Badge](https://img.shields.io/badge/mission-human_flourishing_via_AI_augmentation-purple)
 <br />
 ![GitHub top language](https://img.shields.io/github/languages/top/danielmiessler/fabric)
